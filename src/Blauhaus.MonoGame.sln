@@ -6,9 +6,6 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blauhaus.MonoGame", "Blauhaus.MonoGame\Blauhaus.MonoGame.csproj", "{790EBF16-BFA5-488E-97BE-2234C386A020}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{329AC53F-978E-44E9-A45D-D2B2CFC29DAB}"
-	ProjectSection(SolutionItems) = preProject
-		..\.github\workflows\blauhaus.yml = ..\.github\workflows\blauhaus.yml
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
